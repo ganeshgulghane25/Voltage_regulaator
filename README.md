@@ -50,4 +50,7 @@ Load indication using LEDs
 
 The real hardware version uses the same components as the simulation. The circuit is tested on a breadboard/PCB and measured using a multimeter to verify the regulated output.
 
+
+
+
 I done this project in oct,2024
